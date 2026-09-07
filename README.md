@@ -27,8 +27,6 @@ Ainda com o terminal aberto na pasta do jogo, digite o comando abaixo para inici
 ```bash
 python Quiz.py
 ```
-*(Substitua `seu_arquivo.py` pelo nome real do arquivo do jogo, por exemplo: `main.py`)*
----
 ## Como Jogar
 1. O jogo vai rodar direto no seu terminal.
 2. Fique atento aos comandos e ouça a música que vai tocar automaticamente.
