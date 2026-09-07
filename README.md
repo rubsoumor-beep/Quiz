@@ -25,10 +25,9 @@ pip install playsound3
 Ainda com o terminal aberto na pasta do jogo, digite o comando abaixo para iniciar o quiz:
 
 ```bash
-python seu_arquivo.py
+python Quiz.py
 ```
 *(Substitua `seu_arquivo.py` pelo nome real do arquivo do jogo, por exemplo: `main.py`)*
-
 ---
 ## Como Jogar
 1. O jogo vai rodar direto no seu terminal.
