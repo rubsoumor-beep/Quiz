@@ -1,8 +1,8 @@
-# 🕹️ Quiz Musical - Adivinhe o Jogo pelo Toque
+# Quiz Musical - Adivinhe o Jogo pelo Toque
 
 Um jogo interativo de perguntas e respostas em Python onde você precisa adivinhar de qual jogo clássico é a trilha sonora que está tocando!
 
-## 🚀 Como baixar e jogar no seu computador
+## Como baixar e jogar no seu computador
 
 Siga os passos abaixo para rodar o jogo na sua máquina:
 
@@ -30,7 +30,7 @@ python seu_arquivo.py
 *(Substitua `seu_arquivo.py` pelo nome real do arquivo do jogo, por exemplo: `main.py`)*
 
 ---
-## 🎮 Como Jogar
+## Como Jogar
 1. O jogo vai rodar direto no seu terminal.
 2. Fique atento aos comandos e ouça a música que vai tocar automaticamente.
 3. Digite o número correspondente à sua resposta (ex: `1`, `2`, `3` ou `4`) e aperte **Enter**.
